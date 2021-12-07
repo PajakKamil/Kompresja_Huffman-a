@@ -1,0 +1,1 @@
+Zad_4.exe < Tekst.txt 2> tekst_skompresowany.txt > Legend.txt

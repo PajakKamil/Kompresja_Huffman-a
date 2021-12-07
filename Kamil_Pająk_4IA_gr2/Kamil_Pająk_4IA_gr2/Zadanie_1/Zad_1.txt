@@ -1,0 +1,40 @@
+ALA_I_ALICJA_TO_SIOSTRY_A_DANIEL_TO_ICH_DOBRY_I_FAJNY_KOLEGA
+
+Zadanie 1.1
+Tekst ma 60 znaków
+60 * 8 = 480
+
+
+Zadanie 1.2
+
+A - 8	100		24
+L - 4	1100		16
+_ - 12	00		24
+I - 6	010		18
+C - 2	11010		10
+J - 2	11011		10
+T - 3	10110		15
+O - 5	1010		20	} 231
+S - 2	11100		10
+R - 2	11101		10
+Y - 3	10111		15
+D - 2	11110		10
+N - 2	11111		10
+E - 2	01100		10
+H - 1	01101		5
+B - 1	011100		6
+F - 1	011101		6
+G - 1	011110		6
+K - 1	011111		6
+
+
+
+Zadanie 1.3
+60 * 5 = 300
+
+Wspó³czynnik kompresji: 62.5%
+
+Zadanie 1.6
+
+231 - liczba bitów
+wspó³czynnik kompresji: ~48%
